@@ -15,6 +15,7 @@ A simple React application that counts the number of vowels in a given word. Thi
 
 - React
 - CSS
+- HTML
 
 ## Installation
 
