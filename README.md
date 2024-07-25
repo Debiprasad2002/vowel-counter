@@ -1,5 +1,3 @@
-Certainly! Here are the contents of the `README.md` file formatted for easy copying:
-
 
 # Vowel Counter
 
